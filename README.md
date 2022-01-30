@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IKZtheatrics
+- 👋 Hi, I’m @IKnZ Theatrics
 - 👀 I’m interested in game design 
 - 🌱 I’m currently learning cshtml 
 - 💞️ I’m looking to collaborate on ...
